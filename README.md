@@ -1,6 +1,7 @@
 ```python
 #python==3.10.5
 
+from addlogging import async_addloging, addlogging
 import asyncio
 
 @async_addlogging
