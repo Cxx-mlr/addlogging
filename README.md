@@ -18,3 +18,7 @@ asyncio.run(make_greeting("Misaki"))
 INFO    - addlogging.wrapper_addlogging: Calling make_greeting('Misaki')
 INFO    - addlogging.wrapper_addlogging: 'make_greeting' returned 'Howdy Misaki!'
 ```
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
